@@ -1,0 +1,51 @@
+C:\DBS Project\Football1\Football1\bin\Debug\Football1.exe.config
+C:\DBS Project\Football1\Football1\bin\Debug\Football1.exe
+C:\DBS Project\Football1\Football1\bin\Debug\Football1.pdb
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.csproj.AssemblyReference.cache
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.csproj.SuggestedBindingRedirects.cache
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.Form1.resources
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.Properties.Resources.resources
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.csproj.GenerateResource.cache
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.csproj.CoreCompileInputs.cache
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.exe
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.pdb
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.Admin.resources
+C:\DBS Project\Football1\Football1\bin\Debug\Oracle.DataAccess.dll
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.csproj.CopyComplete
+C:\DBS Project\Football1\Football1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.AAdd.resources
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.ADPlayers.resources
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.Player.resources
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.AAddP.resources
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.LoginPage.resources
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.PAddI.resources
+C:\DBS Project\Football1\Football1\obj\Debug\Football1.Team.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\bin\Debug\Football1.exe
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\bin\Debug\Football1.exe.config
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\bin\Debug\oracle.manageddataaccess.dll
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.AAdd.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.AAddP.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Admin.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.ADPlayers.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Form1.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.LoginPage.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.PAddI.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Player.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Properties.Resources.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Team.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.csproj.CopyComplete
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.exe
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.pdb
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\bin\Debug\Football1.pdb
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.AddHost.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.HLogin.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Host.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Plogin.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Result.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Schedule.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.Teamlogin.resources
+C:\Users\Dell\OneDrive - Manipal Academy of Higher Education\Desktop\football\Football1\Football1\obj\Debug\Football1.TeamAddP.resources
